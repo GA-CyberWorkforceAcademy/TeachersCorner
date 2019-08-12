@@ -22,13 +22,13 @@ By providing resources to a broad range of educators, we can provide students
 with critical knowledge skills and abilities in cyber regardless of their
 participating in a Computer Science course, or a CTAE pathway.
 
-##Cyber/Computer Science/Technology Teacher Resources
+## Cyber/Computer Science/Technology Teacher Resources
 
 *For schools offering a CTAE pathway of other technically driven course:
 
 [Visit and Contribute](../CyberCentral)
 
-[See the Calendar for Collaboration events](../Calendar)
+[See the Calendar for Collaboration events](../CyberCentral/Calendar)
 
 # Cyber in Education
 
