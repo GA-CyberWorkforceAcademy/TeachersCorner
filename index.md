@@ -109,3 +109,5 @@ ___
 
 Sample Skill: add some text here.
 ___
+
+google_analytics: [Placeholder for Google Analytics tracking ID]
