@@ -57,5 +57,7 @@ following broad categories:
 
 -   *Technology in Society*
 
+[Learn More about incorperating these skills into core curriculium](../CyberEd/CyberSkills.md)
+
 
 google_analytics: [Placeholder for Google Analytics tracking ID]
