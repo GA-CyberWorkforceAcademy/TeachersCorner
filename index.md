@@ -1,4 +1,5 @@
 **Introduction**
+======
 
 The term “cyber” is difficult for many to define. Some would say that it means
 the internet; others would default to cybersecurity or hacking as the meaning of
@@ -31,8 +32,9 @@ project based learning assignments, teachers should be able to work towards
 incorporating cyber into their programs organically.
 
 **What are Cyber Skills?**
+------
 
-\<img align="right" width="100" height="100" src="images/computerboy.jpg"\>
+![image alt >] (/images/computerboy.jpg)
 
 The skills needed within the realm of “cyber” can be broken down into the
 following broad categories:
@@ -47,6 +49,8 @@ following broad categories:
 
 -   *Security Fundamentals*
 
+___
+
 *Operating Systems*: Operating Systems run computers, servers and appliances
 used is our lives every day. Understanding how software and hardware work
 together to meet their intended purposes provides a foundation about how digital
@@ -56,6 +60,8 @@ devices contribute to our world.
 |-------------------------------------|-------------|------------------|
 | Computer Science                    |             |                  |
 
+___
+
 *Networking:* Networking provides an understanding of how computers and digital
 systems connect, communicate or provide, use and share resources. This includes
 an understanding on network devices, protocols and connections.
@@ -63,6 +69,8 @@ an understanding on network devices, protocols and connections.
 | Suggested Subject Integrations | Core Skills                                                                 | Suggested Topics               |
 |--------------------------------|-----------------------------------------------------------------------------|--------------------------------|
 | Geography                      | Topologies, Physical versus Logical layouts, Relationships and Dependencies | Telecommunications (Transport) |
+
+___
 
 *Computer Programming:* Programming involves using a computer language to define
 a set of instructions to perform. A programmer creates things through the use of
@@ -75,6 +83,8 @@ the scientific method and technological tools.
 Sample Skill: Analyzing math or science related equations and conducting a
 computer program to produce expected results for a given situation.
 
+___
+
 *Technology in Society:*
 
 | Suggested Subject Integrations                        | Core Skills               | Suggested Topics                                                      |
@@ -84,5 +94,7 @@ computer program to produce expected results for a given situation.
 Sample Skill: Understanding the role that social media plays in the world and
 how it relates to public opinion, information sharing, misinformation, politics
 and conflict.
+___
+
 
 *Security Fundamentals*
