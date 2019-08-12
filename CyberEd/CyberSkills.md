@@ -15,7 +15,6 @@ systems are used, administered or secured.
 
 | Getting Started Resources (external sites- free)                                                   |
 |----------------------------------------------------------------------------------------------------|
-|                                                                                                    |
 | [Linux/Bash scripting](http://overthewire.org/wargames/)                                           |
 | [Windows/PowerShell](https://underthewire.tech/wargames.htm)                                       |
 | [NDG Linux training thru Cisco Netacad](https://www.netacad.com/courses/os-it/ndg-linux-unhatched) |
@@ -76,9 +75,9 @@ to mitigate threats to a computer system.
 
 | Getting Started Resources (external sites- free) |
 |--------------------------------------------------|
-| Link                                             |
-| Link                                             |
-| Link                                             |
+| Link Placeholder                                             |
+| Link Placeholder                                             |
+| Link Placeholder                                            |
 
 Technology in Society
 =====================
@@ -96,4 +95,4 @@ and conflict.
 |-------------------------------------------------------------------------------------------|
 | [Model Diplomacy Case- China Cyber Conflict](https://modeldiplomacy.cfr.org/#/cases/4480) |
 | [Internet-of-things](https://www.netacad.com/courses/iot/introduction-iot)                |
-| [Technology](https://www.indiacelebrating.com/essay/technology-essay/) in Society Writing |
+| [Technology in Society Writing Assignments](https://www.indiacelebrating.com/essay/technology-essay/) |
