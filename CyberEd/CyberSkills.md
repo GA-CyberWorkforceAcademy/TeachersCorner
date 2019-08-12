@@ -21,7 +21,7 @@ systems are used, administered or secured.
 | <https://underthewire.tech/wargames.htm>                                                                               | Windows/PowerShell                    |
 | <https://www.netacad.com/courses/os-it/ndg-linux-unhatched https://www.netacad.com/courses/os-it/ndg-linux-essentials> | NDG Linux training thru Cisco Netacad |
 
-\------
+------
 
 Networking
 ==========
@@ -49,7 +49,7 @@ structures and standards of living.
 | <https://www.visualcapitalist.com/submarine-cables/ https://www.submarinecablemap.com/> | Submarine Communications Map                                |
 | <https://maps.esri.com/rc/sat/>                                                         | Satellite Communications Map                                |
 
-\------
+------
 
 Programming
 ===========
@@ -75,7 +75,7 @@ computer program to produce expected results for a given situation.
 | <https://www.wired.com/2016/07/use-python-teach-high-school-physics/>                        | Physics               |
 | <https://www.wired.com/2016/07/use-python-teach-high-school-physics/>                        | Physics               |
 
-\------
+------
 
 Security Fundamentals
 =====================
@@ -87,7 +87,7 @@ Security Fundamentals
 Sample Skill: Identifying and evaluating the strength of control measures used
 to mitigate threats to a computer system.
 
-\------
+------
 
 Technology in Society
 =====================
