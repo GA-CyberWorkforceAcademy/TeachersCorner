@@ -22,15 +22,17 @@ By providing resources to a broad range of educators, we can provide students
 with critical knowledge skills and abilities in cyber regardless of their
 participating in a Computer Science course, or a CTAE pathway.
 
-## Cyber/Computer Science/Technology Teacher Resources
+Cyber/Computer Science/Technology Teacher Resources
+---------------------------------------------------
 
-*For schools offering a CTAE pathway of other technically driven course:
+\*For schools offering a CTAE pathway of other technically driven course:
 
 [Visit and Contribute](../CyberCentral)
 
 [See the Calendar for Collaboration events](../CyberCentral/Calendar)
 
-# Cyber in Education
+Cyber in Education
+==================
 
 Through incorporating concepts and skills that are applicable to cyber
 throughout core curriculum topics, a school can enhance their existing
@@ -57,7 +59,7 @@ following broad categories:
 
 -   *Technology in Society*
 
-[Learn More about incorperating these skills into core curriculium](../CyberEd/CyberSkills.md)
-
+[Learn More](../CyberEd/CyberSkills.md) about incorporating these skills into
+core curriculum
 
 google_analytics: [Placeholder for Google Analytics tracking ID]
