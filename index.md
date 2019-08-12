@@ -34,8 +34,6 @@ incorporating cyber into their programs organically.
 **What are Cyber Skills?**
 ======
 
-<img align="right" max-width="25%" height="auto" src="/images/computerboy.jpg">
-
 The skills needed within the realm of “cyber” can be broken down into the
 following broad categories:
 
