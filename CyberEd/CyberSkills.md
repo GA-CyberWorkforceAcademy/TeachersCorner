@@ -6,7 +6,7 @@ everyday. Understanding how software and hardware work together to meet their
 intended purposes provides a foundation about how digital devices contribute to
 our world.
 
-| <div style="width:200px">property</div> Suggested Core Subject Integrations | <div style="width:200px">property</div> Core Knowledge/Skills                                                                      | <div style="width:200px">property</div> Suggested Learning/Topics |
+| <div style="width:200px">Suggested Core Subject Integrations</div> | <div style="width:200px">Core Knowledge/Skills</div>                                                                       | <div style="width:200px">Suggested Learning/Topics</div>  |
 |-------------------------------------|--------------------------------------------------------------------------------------------|---------------------------|
 | Computer Science                    | System Architecture of Windows/Linux, system administration tasks, System hardening basics | CyberPatriot              |
 
