@@ -97,11 +97,4 @@ and conflict.
 | [Internet-of-things](https://www.netacad.com/courses/iot/introduction-iot)                |
 | [Technology in Society Writing Assignments](https://www.indiacelebrating.com/essay/technology-essay/) |
 
-<script src="https://unpkg.com/vanilla-back-to-top@7.2.0/dist/vanilla-back-to-top.min.js"></script>
-<script>addBackToTop({
-  diameter: 56,
-  backgroundColor: 'rgb(255, 82, 82)',
-  textColor: '#fff'
-})</script>
-
 
