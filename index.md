@@ -31,7 +31,7 @@ requires passion and motivation but with resources, guides, and suggested
 project based learning assignments, teachers should be able to work towards
 incorporating cyber into their programs organically.
 
-#H1 **What are Cyber Skills?**
+**What are Cyber Skills?**
 ======
 
 <img align="right" src="/images/computerboy.jpg">
@@ -51,7 +51,8 @@ following broad categories:
 
 ___
 
-#H2 **Operating Systems**
+## **Operating Systems**
+------
 
 Operating Systems run computers, servers and appliances
 used is our lives every day. Understanding how software and hardware work
@@ -64,7 +65,8 @@ devices contribute to our world.
 
 ___
 
-#H2 **Networking**
+## **Networking**
+------
 
 Networking provides an understanding of how computers and digital
 systems connect, communicate or provide, use and share resources. This includes
@@ -76,7 +78,8 @@ an understanding on network devices, protocols and connections.
 
 ___
 
-#H2 **Computer Programming** 
+## **Computer Programming** 
+------
 
 Programming involves using a computer language to define
 a set of instructions to perform. A programmer creates things through the use of
@@ -91,7 +94,8 @@ computer program to produce expected results for a given situation.
 
 ___
 
-#H2 **Technology in Society**
+## **Technology in Society**
+------
 
 | Suggested Subject Integrations                        | Core Skills               | Suggested Topics                                                      |
 |-------------------------------------------------------|---------------------------|-----------------------------------------------------------------------|
@@ -103,7 +107,8 @@ and conflict.
 ___
 
 
-#H2 **Security Fundamentals**
+## **Security Fundamentals**
+------
 
 | Suggested Subject Integrations                        | Core Skills               | Suggested Topics                                                      |
 |-------------------------------------------------------|---------------------------|-----------------------------------------------------------------------|
