@@ -31,10 +31,10 @@ requires passion and motivation but with resources, guides, and suggested
 project based learning assignments, teachers should be able to work towards
 incorporating cyber into their programs organically.
 
-**What are Cyber Skills?**
-------
+#H1 **What are Cyber Skills?**
+======
 
-![image alt >] (/images/computerboy.jpg)
+<img align="right" src="/images/computerboy.jpg">
 
 The skills needed within the realm of “cyber” can be broken down into the
 following broad categories:
@@ -51,7 +51,9 @@ following broad categories:
 
 ___
 
-*Operating Systems*: Operating Systems run computers, servers and appliances
+#H2 **Operating Systems**
+
+Operating Systems run computers, servers and appliances
 used is our lives every day. Understanding how software and hardware work
 together to meet their intended purposes provides a foundation about how digital
 devices contribute to our world.
@@ -62,7 +64,9 @@ devices contribute to our world.
 
 ___
 
-*Networking:* Networking provides an understanding of how computers and digital
+#H2 **Networking**
+
+Networking provides an understanding of how computers and digital
 systems connect, communicate or provide, use and share resources. This includes
 an understanding on network devices, protocols and connections.
 
@@ -72,7 +76,9 @@ an understanding on network devices, protocols and connections.
 
 ___
 
-*Computer Programming:* Programming involves using a computer language to define
+#H2 **Computer Programming** 
+
+Programming involves using a computer language to define
 a set of instructions to perform. A programmer creates things through the use of
 the scientific method and technological tools.
 
@@ -85,7 +91,7 @@ computer program to produce expected results for a given situation.
 
 ___
 
-*Technology in Society:*
+#H2 **Technology in Society**
 
 | Suggested Subject Integrations                        | Core Skills               | Suggested Topics                                                      |
 |-------------------------------------------------------|---------------------------|-----------------------------------------------------------------------|
@@ -97,4 +103,11 @@ and conflict.
 ___
 
 
-*Security Fundamentals*
+#H2 **Security Fundamentals**
+
+| Suggested Subject Integrations                        | Core Skills               | Suggested Topics                                                      |
+|-------------------------------------------------------|---------------------------|-----------------------------------------------------------------------|
+| Computer Science/Technology, Social Studies/Humanities | Analytical thinking, Problem Solving | Current Events |
+
+Sample Skill: add some text here.
+___
