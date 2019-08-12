@@ -6,9 +6,9 @@ everyday. Understanding how software and hardware work together to meet their
 intended purposes provides a foundation about how digital devices contribute to
 our world.
 
-| Suggested Core Subject Integrations | Core Knowledge/Skills                                                                      | Suggested Learning/Topics |
-|-------------------------------------|--------------------------------------------------------------------------------------------|---------------------------|
-| Computer Science                    | System Architecture of Windows/Linux, system administration tasks, System hardening basics | CyberPatriot              |
+| Suggested Core Subject Integrations | Core Knowledge/Skills                                                                    | Suggested Learning/Topics |
+|-------------------------------------|------------------------------------------------------------------------------------------|---------------------------|
+| Computer Science Technology/Cyber   | System Architecture of Windows/Linux System administration tasks System hardening basics | CyberPatriot              |
 
 Sample Skill: Comparing and Contrasting the way Windows and Linux operating
 systems are used, administered or secured.
@@ -32,9 +32,9 @@ connect, communicate or provide, use and share resources. This includes an
 
 understanding on network devices, protocols and connections.
 
-| Suggested Core Subject Integrations | Core Knowledge/Skills                                                                          | Suggested Learning/Topics      |
-|-------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------|
-| Geography, Science                  | Topologies, Physical versus Logical layouts, Relationships and Dependencies, Light/Radio Waves | Telecommunications (Transport) |
+| Suggested Core Subject Integrations | Core Knowledge/Skills                                                                 | Suggested Learning/Topics      |
+|-------------------------------------|---------------------------------------------------------------------------------------|--------------------------------|
+| Geography Science                   | Topologies Physical vs Logical layouts Relationships & Dependencies Light/Radio Waves | Telecommunications (Transport) |
 
 Sample Skill: Discovering relationships between levels and types of internet
 access/connectivity and other societal indicators such as GDP, political
@@ -58,9 +58,9 @@ Programming involves using a computer language to define a set of instructions
 to perform. A programmer creates things through the use of the scientific method
 and technological tools.
 
-| Suggested Core Subject Integrations | Core Knowledge/Skills                                                 | Suggested Learning/Topics                        |
-|-------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------|
-| Math, Science                       | Problem Analysis, Logic, Attention to Detail, Self-Reliance, Patience | Python/Ruby, Scripting (Bash or PowerShell), C++ |
+| Suggested Core Subject Integrations | Core Knowledge/Skills                                              | Suggested Learning/Topics                      |
+|-------------------------------------|--------------------------------------------------------------------|------------------------------------------------|
+| Math Science                        | Problem Analysis Logic, Attention to Detail Self-Reliance Patience | Python/Ruby Scripting (Bash or PowerShell) C++ |
 
 Sample Skill: Analyzing math or science related equations and creating a
 computer program to produce expected results for a given situation.
@@ -80,9 +80,9 @@ computer program to produce expected results for a given situation.
 Security Fundamentals
 =====================
 
-| Suggested Core Subject Integrations                    | Core Knowledge/Skills                          | Suggested Learning/Topics                                     |
-|--------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------|
-| Computer Science/Technology, Social Studies/Humanities | Analytical thinking, Problem Solving, Research | Current Events, Ethics, Web Applications, penetration testing |
+| Suggested Core Subject Integrations                   | Core Knowledge/Skills                        | Suggested Learning/Topics                                  |
+|-------------------------------------------------------|----------------------------------------------|------------------------------------------------------------|
+| Computer Science Technology Social Studies Humanities | Analytical thinking Problem Solving Research | Current Events Ethics Web Applications Penetration testing |
 
 Sample Skill: Identifying and evaluating the strength of control measures used
 to mitigate threats to a computer system.
@@ -92,9 +92,9 @@ to mitigate threats to a computer system.
 Technology in Society
 =====================
 
-| Suggested Core Subject Integrations                  | Core Knowledge/Skills     | Suggested Learning/Topics                                                  |
-|------------------------------------------------------|---------------------------|----------------------------------------------------------------------------|
-| Language Arts, Social Studies/Humanities, Government | Communication and Empathy | Cyber policy/warfare, Internet-of-things, Current Events, Health Education |
+| Suggested Core Subject Integrations                | Core Knowledge/Skills | Suggested Learning/Topics                                               |
+|----------------------------------------------------|-----------------------|-------------------------------------------------------------------------|
+| Language Arts Social Studies Humanities Government | Communication Empathy | Cyber policy/warfare Internet-of-things Current Events Health Education |
 
 Sample Skill: Understanding the role that social media plays in the world and
 
