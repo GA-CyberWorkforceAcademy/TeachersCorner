@@ -52,7 +52,6 @@ following broad categories:
 ___
 
 ## **Operating Systems**
-------
 
 Operating Systems run computers, servers and appliances
 used is our lives every day. Understanding how software and hardware work
@@ -66,7 +65,6 @@ devices contribute to our world.
 ___
 
 ## **Networking**
-------
 
 Networking provides an understanding of how computers and digital
 systems connect, communicate or provide, use and share resources. This includes
@@ -79,7 +77,6 @@ an understanding on network devices, protocols and connections.
 ___
 
 ## **Computer Programming** 
-------
 
 Programming involves using a computer language to define
 a set of instructions to perform. A programmer creates things through the use of
@@ -95,7 +92,6 @@ computer program to produce expected results for a given situation.
 ___
 
 ## **Technology in Society**
-------
 
 | Suggested Subject Integrations                        | Core Skills               | Suggested Topics                                                      |
 |-------------------------------------------------------|---------------------------|-----------------------------------------------------------------------|
@@ -108,7 +104,6 @@ ___
 
 
 ## **Security Fundamentals**
-------
 
 | Suggested Subject Integrations                        | Core Skills               | Suggested Topics                                                      |
 |-------------------------------------------------------|---------------------------|-----------------------------------------------------------------------|
