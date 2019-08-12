@@ -13,10 +13,10 @@ our world.
 Sample Skill: Comparing and Contrasting the way Windows and Linux operating
 systems are used, administered or secured.
 
-### Getting Started Resources (external sites- free)
-
-| [Linux/Bash scripting](http://overthewire.org/wargames/)                                           |
+| Getting Started Resources (external sites- free)                                                   |
 |----------------------------------------------------------------------------------------------------|
+|                                                                                                    |
+| [Linux/Bash scripting](http://overthewire.org/wargames/)                                           |
 | [Windows/PowerShell](https://underthewire.tech/wargames.htm)                                       |
 | [NDG Linux training thru Cisco Netacad](https://www.netacad.com/courses/os-it/ndg-linux-unhatched) |
 
@@ -37,10 +37,9 @@ Sample Skill: Discovering relationships between levels and types of internet
 access/connectivity and other societal indicators such as GDP, political
 structures and standards of living.
 
-### Getting Started Resources (external sites- free)
-
-| [Youtube-How the Internet Works](https://www.youtube.com/watch?v=8dzqdBtOdcQ)                                                           |
+| Getting Started Resources (external sites- free)                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------------------------------|
+| [Youtube-How the Internet Works](https://www.youtube.com/watch?v=8dzqdBtOdcQ)                                                           |
 | [Packet Tracer Training (free Cisco network simulation tool)](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer) |
 | [Submarine Communications Map](https://www.visualcapitalist.com/submarine-cables)                                                       |
 | [Satellite Communications Map](https://maps.esri.com/rc/sat/)                                                                           |
@@ -59,10 +58,9 @@ and technological tools.
 Sample Skill: Analyzing math or science related equations and creating a
 computer program to produce expected results for a given situation.
 
-### Getting Started Resources (external sites- free)
-
-| [Math with Python (Georgia Cyber Center Resource)](https://ga-cyberworkforceacademy.github.io/Python/)                         |
+| Getting Started Resources (external sites- free)                                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------|
+| [Math with Python (Georgia Cyber Center Resource)](https://ga-cyberworkforceacademy.github.io/Python/)                         |
 | [Math Exercises in Python](https://www.w3resource.com/python-exercises/math/)                                                  |
 | [Python for Physics and Astronomy](http://prancer.physics.louisville.edu/astrowiki/index.php/Python_for_Physics_and_Astronomy) |
 
@@ -76,6 +74,12 @@ Security Fundamentals
 Sample Skill: Identifying and evaluating the strength of control measures used
 to mitigate threats to a computer system.
 
+| Getting Started Resources (external sites- free) |
+|--------------------------------------------------|
+| Link                                             |
+| Link                                             |
+| Link                                             |
+
 Technology in Society
 =====================
 
@@ -88,10 +92,8 @@ Sample Skill: Understanding the role that social media plays in the world and
 how it relates to public opinion, information sharing, misinformation, politics
 and conflict.
 
-### Getting Started Resources (external sites- free)
-
-| Link                                                                                      | Subject/Area                          |
-|-------------------------------------------------------------------------------------------|---------------------------------------|
-| [Model Diplomacy Case- China Cyber Conflict](https://modeldiplomacy.cfr.org/#/cases/4480) | Government, Social Studies, Diplomacy |
-| <https://www.netacad.com/courses/iot/introduction-iot>                                    | Internet-of-Things, Humanities        |
-| <https://www.indiacelebrating.com/essay/technology-essay/>                                | Technology Writing Assignments        |
+| Getting Started Resources (external sites- free)                                          |
+|-------------------------------------------------------------------------------------------|
+| [Model Diplomacy Case- China Cyber Conflict](https://modeldiplomacy.cfr.org/#/cases/4480) |
+| [Internet-of-things](https://www.netacad.com/courses/iot/introduction-iot)                |
+| [Technology](https://www.indiacelebrating.com/essay/technology-essay/) in Society Writing |
