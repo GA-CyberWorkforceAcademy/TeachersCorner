@@ -27,7 +27,7 @@ Cyber/Computer Science/Technology Teacher Resources
 
 \*For schools offering a CTAE pathway of other technically driven course:
 
-[Visit and Contribute](../CyberCentral)
+[Visit and Contribute](../CyberCentral/resourceindex.md)
 
 [See the Calendar for Collaboration events](https://calendar.google.com/calendar/embed?src=ge4n6oqm3duj8ahia1a167t88k%40group.calendar.google.com&ctz=America%2FNew_York)
 
