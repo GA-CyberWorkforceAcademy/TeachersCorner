@@ -1,9 +1,0 @@
-# Belongs at: /_data/navigation.yml
-
-- title: Home
-  url: /
-  sublinks:
-    - title: Cyber Central Teacher repository
-      url: /CyberCentral/resourceindex
-    - title: Cyber Core Education
-      url: /CyberEd/CyberSkills
