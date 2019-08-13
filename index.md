@@ -22,29 +22,6 @@ By providing resources to a broad range of educators, we can provide students
 with critical knowledge skills and abilities in cyber regardless of their
 participating in a Computer Science course, or a CTAE pathway.
 
-Cyber Central Teachers Repository
----------------------------------
-
-\*For teachers/schools offering a CTAE pathway or other technically driven
-course:
-
-[Visit CyberCentral and Contribute](../CyberCentral/resourceindex.md)
-
-[See the Calendar for Collaboration
-events](https://calendar.google.com/calendar/embed?src=ge4n6oqm3duj8ahia1a167t88k%40group.calendar.google.com&ctz=America%2FNew_York)
-
-Cyber Core Education
---------------------
-
-Through incorporating concepts and skills that are applicable to cyber
-throughout core curriculum topics, a school can enhance their existing
-curriculum while further improving the education and preparation of their
-students. We believe this innovative method can be implemented in any school
-that is willing. Incorporating cyber concepts and skills into core curriculum
-requires passion and motivation but with resources, guides, and suggested
-project based learning assignments, teachers should be able to work towards
-incorporating cyber into their programs organically.
-
 What are Cyber Skills?
 ----------------------
 
@@ -61,5 +38,28 @@ following broad categories:
 
 -   *Technology in Society*
 
-[Learn More](/CyberEd/CyberSkills.md) about incorporating these skills into core
-curriculum
+Cyber Central Teacher Repository
+--------------------------------
+
+\*For teachers/schools offering a CTAE pathway or other technically driven
+course:
+
+Visit CyberCentral and Contribute
+
+[See the Calendar for Collaboration
+events](https://calendar.google.com/calendar/embed?src=ge4n6oqm3duj8ahia1a167t88k%40group.calendar.google.com&ctz=America%2FNew_York)
+
+Cyber Core Education
+--------------------
+
+Through incorporating concepts and skills that are applicable to cyber
+throughout core curriculum topics, a school can enhance their existing
+curriculum while further improving the education and preparation of their
+students. We believe this innovative method can be implemented in any school
+that is willing. Incorporating cyber concepts and skills into core curriculum
+requires passion and motivation but with resources, guides, and suggested
+project based learning assignments, teachers should be able to work towards
+incorporating cyber into their programs organically.
+
+Visit [Cyber Core Education](/CyberEd/CyberSkills) to learn more about
+incorporating cyber skills into core curriculum
