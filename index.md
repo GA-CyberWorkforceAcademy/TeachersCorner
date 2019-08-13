@@ -27,12 +27,13 @@ Cyber/Computer Science/Technology Teacher Resources
 
 \*For schools offering a CTAE pathway of other technically driven course:
 
-[Visit and Contribute](../CyberCentral/resourceindex.md)
+[Visit CyberCentral and Contribute](../CyberCentral/resourceindex.md)
 
-[See the Calendar for Collaboration events](https://calendar.google.com/calendar/embed?src=ge4n6oqm3duj8ahia1a167t88k%40group.calendar.google.com&ctz=America%2FNew_York)
+[See the Calendar for Collaboration
+events](https://calendar.google.com/calendar/embed?src=ge4n6oqm3duj8ahia1a167t88k%40group.calendar.google.com&ctz=America%2FNew_York)
 
-Cyber in Education
-==================
+Cyber in Core Education
+=======================
 
 Through incorporating concepts and skills that are applicable to cyber
 throughout core curriculum topics, a school can enhance their existing
@@ -59,7 +60,5 @@ following broad categories:
 
 -   *Technology in Society*
 
-[Learn More](/CyberEd/CyberSkills.md) about incorporating these skills into
-core curriculum
-
-google_analytics: [Placeholder for Google Analytics tracking ID]
+[Learn More](/CyberEd/CyberSkills.md) about incorporating these skills into core
+curriculum
