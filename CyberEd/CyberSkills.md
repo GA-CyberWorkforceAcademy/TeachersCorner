@@ -1,7 +1,7 @@
 Operating Systems
 =================
 
-Operating Systems run computers, servers and appliances used is our lives
+Operating Systems (OS) run computers, servers and appliances used is our lives
 everyday. Understanding how software and hardware work together to meet their
 intended purposes provides a foundation about how digital devices contribute to
 our world. Operating Systems should cover Windows and \*Nix systems
@@ -10,10 +10,10 @@ our world. Operating Systems should cover Windows and \*Nix systems
 **Sample Skill**: Comparing and Contrasting the way Windows and Linux operating
 systems are used, administered or secured.
 
-| Visit                                   |
-|-----------------------------------------|
-| [Resources](OS/Resources)               |
-| [Project Ideas](/Projects/ProjectIdeas) |
+| Looking for help integrating **OS** learning into your curriculum? |
+|--------------------------------------------------------------------|
+| [Resources](OS/Resources)                                          |
+| [Project Ideas](/Projects/ProjectIdeas)                            |
 
 Networking
 ==========
@@ -28,10 +28,10 @@ topics like fiber optics, satellite and wireless communications and Ethernet.
 access/connectivity and other societal indicators such as GDP, political
 structures and standards of living.
 
-| Visit                                   |
-|-----------------------------------------|
-| [Resources](Networking/Resources)       |
-| [Project Ideas](/Projects/ProjectIdeas) |
+| Looking for help integrating **Networking** into your curriculum? |
+|-------------------------------------------------------------------|
+| [Resources](Networking/Resources)                                 |
+| [Project Ideas](/Projects/ProjectIdeas)                           |
 
 Programming
 ===========
@@ -45,10 +45,10 @@ great starter languages.
 **Sample Skill**: Analyzing math or science related equations and creating a
 computer program to produce expected results for a given situation.
 
-| Visit                                   |
-|-----------------------------------------|
-| [Resources](Programming/Resources)      |
-| [Project Ideas](/Projects/ProjectIdeas) |
+| Looking for help integrating **Programming** into your curriculum? |
+|--------------------------------------------------------------------|
+| [Resources](Programming/Resources)                                 |
+| [Project Ideas](/Projects/ProjectIdeas)                            |
 
 Security Fundamentals
 =====================
@@ -62,10 +62,10 @@ critical for providing the best defense against attacks.
 **Sample Skill**: Identifying and evaluating the strength of control measures
 used to mitigate threats to a computer system.
 
-| Visit                                   |
-|-----------------------------------------|
-| [Resources](Security/Resources)         |
-| [Project Ideas](/Projects/ProjectIdeas) |
+| Looking for help integrating **Security Fundamentals** into your curriculum? |
+|------------------------------------------------------------------------------|
+| [Resources](Security/Resources)                                              |
+| [Project Ideas](/Projects/ProjectIdeas)                                      |
 
 Technology in Society
 =====================
@@ -84,7 +84,7 @@ and
 how it relates to public opinion, information sharing, misinformation, politics
 and conflict.
 
-| Visit                                   |
-|-----------------------------------------|
-| [Resources](TechSociety/Resources)      |
-| [Project Ideas](/Projects/ProjectIdeas) |
+| Looking for help integrating **Technology in Society** into your curriculum? |
+|------------------------------------------------------------------------------|
+| [Resources](TechSociety/Resources)                                           |
+| [Project Ideas](/Projects/ProjectIdeas)                                      |
