@@ -13,7 +13,7 @@ systems are used, administered or secured.
 | Looking for help integrating **OS** learning into your curriculum? |
 |--------------------------------------------------------------------|
 | [Resources](OS/Resources)                                          |
-| [Project Ideas](/Projects/ProjectIdeas)                            |
+| [Project Ideas](Projects/ProjectIdeas)                             |
 
 Networking
 ==========
@@ -31,7 +31,7 @@ structures and standards of living.
 | Looking for help integrating **Networking** into your curriculum? |
 |-------------------------------------------------------------------|
 | [Resources](Networking/Resources)                                 |
-| [Project Ideas](/Projects/ProjectIdeas)                           |
+| [Project Ideas](Projects/ProjectIdeas)                            |
 
 Programming
 ===========
@@ -48,7 +48,7 @@ computer program to produce expected results for a given situation.
 | Looking for help integrating **Programming** into your curriculum? |
 |--------------------------------------------------------------------|
 | [Resources](Programming/Resources)                                 |
-| [Project Ideas](/Projects/ProjectIdeas)                            |
+| [Project Ideas](Projects/ProjectIdeas)                             |
 
 Security Fundamentals
 =====================
@@ -65,7 +65,7 @@ used to mitigate threats to a computer system.
 | Looking for help integrating **Security Fundamentals** into your curriculum? |
 |------------------------------------------------------------------------------|
 | [Resources](Security/Resources)                                              |
-| [Project Ideas](/Projects/ProjectIdeas)                                      |
+| [Project Ideas](Projects/ProjectIdeas)                                       |
 
 Technology in Society
 =====================
@@ -87,4 +87,4 @@ and conflict.
 | Looking for help integrating **Technology in Society** into your curriculum? |
 |------------------------------------------------------------------------------|
 | [Resources](TechSociety/Resources)                                           |
-| [Project Ideas](/Projects/ProjectIdeas)                                      |
+| [Project Ideas](Projects/ProjectIdeas)                                       |
