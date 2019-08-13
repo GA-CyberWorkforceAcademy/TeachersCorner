@@ -4,9 +4,8 @@
   url: /
   sublinks:
     - title: Cyber Central Teacher repository
-    url: /CyberCentral/resourceindex.md
+      url: /CyberCentral/resourceindex.md
     - title: Cyber Core Education
-    url: /CyberEd/CyberSkills.md
-  
+      url: /CyberEd/CyberSkills.md
 - title: Calendar
-url: https://calendar.google.com/calendar/embed?src=ge4n6oqm3duj8ahia1a167t88k%40group.calendar.google.com&ctz=America%2FNew_York
+  url: https://calendar.google.com/calendar/embed?src=ge4n6oqm3duj8ahia1a167t88k%40group.calendar.google.com&ctz=America%2FNew_York
