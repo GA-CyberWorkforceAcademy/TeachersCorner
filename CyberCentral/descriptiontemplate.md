@@ -1,9 +1,14 @@
-Resource Description Template
+**Resource Description Template**
 
-Topic:
+-   Ensure that the listed documents include intent and file type.
 
-Learning Objectives met/addressed:
+| Topic                                                                                                        |                 |
+|--------------------------------------------------------------------------------------------------------------|-----------------|
+| Learning Objectives Addressed                                                                                |                 |
+| Grade(s) appropriate for                                                                                     |                 |
+| Resource package includes the following items:                                                               | Listed document |
+| Contact information for submitter: Name: Email: Telephone (optional): School (if applicable): Grades taught: |                 |
 
-Resource package includes the following items:
+1.  Listed document
 
-1.  List the document, its intent, and file type.
+2.  Listed document
