@@ -1,25 +1,25 @@
 UNDER CONSTRUCTION
 
-GA CTAE Cybersecurity Pathway
-=============================
+GA CTAE Information Technology Cluster
+======================================
 
-Sites and Resources
--------------------
+Resources collected here are categorized by their topic, not by a specific CTAE
+pathway due to the overlapping nature of many topics within IT/Cyber/Computer
+Science.
 
-GA CTAE Networking Pathway
-==========================
+Contribution Information
+========================
 
-Sites and Resources
--------------------
+-   In order to contribute a resource, please determine the category that is
+    belongs to (based on current categories) or suggest a new category if none
+    are applicable.
 
-GA CTAE Information Support and Services Pathway
-================================================
+-   Ensure that nothing you are contributing infringes on copyrights, patents,
+    licenses, trademarks, etc.
 
-Sites and Resources
--------------------
+-   If your resource is comprised of multiple documents, please provide these in
+    a folder, along with the resource description document ([template found
+    here](descriptiontemplate)).
 
-GA CTAE Computer Science Pathway
-================================
-
-Sites and Resources
--------------------
+-   Contact the POC for the category you are contributing to. A list of POC’s
+    can be found [here](contacts.md)
