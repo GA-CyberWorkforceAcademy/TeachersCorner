@@ -44,7 +44,7 @@ Cyber Central Teacher Repository
 \*For teachers/schools offering a CTAE pathway or other technically driven
 course:
 
--   [Visit CyberCentral and Contribute](CyberCentral/resourceindex.md)
+-   Visit CyberCentral and Contribute
 
 -   [See the Calendar for Collaboration
     events](https://calendar.google.com/calendar/embed?src=ge4n6oqm3duj8ahia1a167t88k%40group.calendar.google.com&ctz=America%2FNew_York)
@@ -61,5 +61,6 @@ requires passion and motivation but with resources, guides, and suggested
 project based learning assignments, teachers should be able to work towards
 incorporating cyber into their programs organically.
 
--   **Visit** [Cyber Core Education](CyberEd/CyberSkills) **to learn more about
-    incorporating cyber skills into core curriculum**
+-   **Visit** [Cyber Core
+    Education](https://ga-cyberworkforceacademy.github.io/TeachersCorner/CyberEd/CyberSkills)
+    **to learn more about incorporating cyber skills into core curriculum**
