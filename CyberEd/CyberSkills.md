@@ -10,10 +10,12 @@ our world. Operating Systems should cover Windows and \*Nix systems
 **Sample Skill**: Comparing and Contrasting the way Windows and Linux operating
 systems are used, administered or secured.
 
-| Looking for help integrating **OS** learning into your curriculum? |
-|--------------------------------------------------------------------|
-| [Resources](OS/Resources)                                          |
-| [Project Ideas](Projects/ProjectIdeas)                             |
+| Suggested Core Subject Integrations                                | Core Knowledge/Skills                                                                    | Suggested Learning/Topics |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------|
+| Computer Science Technology/Cyber                                  | System Architecture of Windows/Linux System administration tasks System hardening basics | CyberPatriot              |
+| Looking for help integrating **OS** learning into your curriculum? |                                                                                          |                           |
+| [Resources](OS/Resources)                                          |                                                                                          |                           |
+|                                                                    |                                                                                          |                           |
 
 Networking
 ==========
@@ -28,10 +30,12 @@ topics like fiber optics, satellite and wireless communications and Ethernet.
 access/connectivity and other societal indicators such as GDP, political
 structures and standards of living.
 
-| Looking for help integrating **Networking** into your curriculum? |
-|-------------------------------------------------------------------|
-| [Resources](Networking/Resources)                                 |
-| [Project Ideas](Projects/ProjectIdeas)                            |
+| Suggested Core Subject Integrations                               | Core Knowledge/Skills                                                                 | Suggested Learning/Topics      |
+|-------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------|
+| Geography Science                                                 | Topologies Physical vs Logical layouts Relationships & Dependencies Light/Radio Waves | Telecommunications (Transport) |
+| Looking for help integrating **Networking** into your curriculum? |                                                                                       |                                |
+| [Resources](Networking/Resources)                                 |                                                                                       |                                |
+|                                                                   |                                                                                       |                                |
 
 Programming
 ===========
@@ -45,10 +49,12 @@ great starter languages.
 **Sample Skill**: Analyzing math or science related equations and creating a
 computer program to produce expected results for a given situation.
 
-| Looking for help integrating **Programming** into your curriculum? |
-|--------------------------------------------------------------------|
-| [Resources](Programming/Resources)                                 |
-| [Project Ideas](Projects/ProjectIdeas)                             |
+| Suggested Core Subject Integrations                                | Core Knowledge/Skills                                              | Suggested Learning/Topics                      |
+|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------|
+| Math Science                                                       | Problem Analysis Logic, Attention to Detail Self-Reliance Patience | Python/Ruby Scripting (Bash or PowerShell) C++ |
+| Looking for help integrating **Programming** into your curriculum? |                                                                    |                                                |
+| [Resources](Programming/Resources)                                 |                                                                    |                                                |
+|                                                                    |                                                                    |                                                |
 
 Security Fundamentals
 =====================
@@ -62,10 +68,12 @@ critical for providing the best defense against attacks.
 **Sample Skill**: Identifying and evaluating the strength of control measures
 used to mitigate threats to a computer system.
 
-| Looking for help integrating **Security Fundamentals** into your curriculum? |
-|------------------------------------------------------------------------------|
-| [Resources](Security/Resources)                                              |
-| [Project Ideas](Projects/ProjectIdeas)                                       |
+| Suggested Core Subject Integrations                                          | Core Knowledge/Skills                        | Suggested Learning/Topics                                  |
+|------------------------------------------------------------------------------|----------------------------------------------|------------------------------------------------------------|
+| Computer Science Technology Social Studies Humanities                        | Analytical thinking Problem Solving Research | Current Events Ethics Web Applications Penetration testing |
+| Looking for help integrating **Security Fundamentals** into your curriculum? |                                              |                                                            |
+| [Resources](Security/Resources)                                              |                                              |                                                            |
+|                                                                              |                                              |                                                            |
 
 Technology in Society
 =====================
@@ -79,12 +87,12 @@ potential benefits and considerations are as technology is developed and
 integrated into society.
 
 **Sample Skill**: Understanding the role that social media plays in the world
-and
+and how it relates to public opinion, information sharing, misinformation,
+politics and conflict.
 
-how it relates to public opinion, information sharing, misinformation, politics
-and conflict.
-
-| Looking for help integrating **Technology in Society** into your curriculum? |
-|------------------------------------------------------------------------------|
-| [Resources](TechSociety/Resources)                                           |
-| [Project Ideas](Projects/ProjectIdeas)                                       |
+| Suggested Core Subject Integrations                                          | Core Knowledge/Skills | Suggested Learning/Topics                                               |
+|------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------|
+| Language Arts Social Studies Humanities Government                           | Communication Empathy | Cyber policy/warfare Internet-of-things Current Events Health Education |
+| Looking for help integrating **Technology in Society** into your curriculum? |                       |                                                                         |
+| Resources                                                                    |                       |                                                                         |
+|                                                                              |                       |                                                                         |
