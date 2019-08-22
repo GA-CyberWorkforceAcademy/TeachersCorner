@@ -19,16 +19,14 @@ For more information about the Pathways from the GA DOE site, click
 Contribution Information
 ========================
 
--   In order to contribute a resource, please determine the category that is
-    belongs to (based on current categories) or suggest a new category if none
-    are applicable.
+-   In order to contribute a resource, please fill out a [contribution
+    request](https://docs.google.com/forms/d/e/1FAIpQLSfhQ0AbE_iuUwK0WtLZXDThx_KvSleLL6hPKMS09QF1YB8nbw/viewform?usp=sf_link).
 
 -   Ensure that nothing you are contributing infringes on copyrights, patents,
     licenses, trademarks, etc.
 
--   If your resource is comprised of multiple documents, please provide these in
-    a folder, along with the resource description document ([template found
-    here](descriptiontemplate)).
+-   If your resource is comprised of multiple documents, please be ready to
+    provide these in a folder.
 
 -   Contact the POC for the category you are contributing to. A list of POC’s
     can be found [here](contacts.md)
