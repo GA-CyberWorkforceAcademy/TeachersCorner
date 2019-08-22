@@ -44,7 +44,7 @@ Cyber Pathway Teacher Repository
 \*For teachers/schools offering a CTAE pathway or other technically driven
 course:
 
--   Visit CyberPathway and Contribute
+-   **Visit** [CyberPathway](CyberPathway/resourceindex.md) **and Contribute**
 
 -   [See the Calendar for Collaboration
     events](https://calendar.google.com/calendar/embed?src=ge4n6oqm3duj8ahia1a167t88k%40group.calendar.google.com&ctz=America%2FNew_York)
