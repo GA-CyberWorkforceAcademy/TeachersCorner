@@ -10,7 +10,7 @@ our world. Operating Systems should cover Windows and \*Nix systems
 **Sample Skill**: Comparing and Contrasting the way Windows and Linux operating
 systems are used, administered or secured.
 
-| Suggested Core Subject Integrations                                | Core Knowledge/Skills                                                                    | Suggested Learning/Topics |
+| **Suggested Core Subject Integrations                                | Core Knowledge/Skills                                                                    | Suggested Learning/Topics** |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------|
 | Computer Science Technology/Cyber                                  | System Architecture of Windows/Linux System administration tasks System hardening basics | CyberPatriot              |
 
@@ -32,7 +32,7 @@ topics like fiber optics, satellite and wireless communications and Ethernet.
 access/connectivity and other societal indicators such as GDP, political
 structures and standards of living.
 
-| Suggested Core Subject Integrations                               | Core Knowledge/Skills                                                                 | Suggested Learning/Topics      |
+| **Suggested Core Subject Integrations                               | Core Knowledge/Skills                                                                 | Suggested Learning/Topics**      |
 |-------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------|
 | Geography Science                                                 | Topologies Physical vs Logical layouts Relationships & Dependencies Light/Radio Waves | Telecommunications (Transport) |
 
@@ -53,7 +53,7 @@ great starter languages.
 **Sample Skill**: Analyzing math or science related equations and creating a
 computer program to produce expected results for a given situation.
 
-| Suggested Core Subject Integrations                                | Core Knowledge/Skills                                              | Suggested Learning/Topics                      |
+| **Suggested Core Subject Integrations                                | Core Knowledge/Skills                                              | Suggested Learning/Topics**                      |
 |--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------|
 | Math Science                                                       | Problem Analysis Logic, Attention to Detail Self-Reliance Patience | Python/Ruby Scripting (Bash or PowerShell) C++ |
 
@@ -74,7 +74,7 @@ critical for providing the best defense against attacks.
 **Sample Skill**: Identifying and evaluating the strength of control measures
 used to mitigate threats to a computer system.
 
-| Suggested Core Subject Integrations                                          | Core Knowledge/Skills                        | Suggested Learning/Topics                                  |
+| **Suggested Core Subject Integrations                                          | Core Knowledge/Skills                        | Suggested Learning/Topics**                                  |
 |------------------------------------------------------------------------------|----------------------------------------------|------------------------------------------------------------|
 | Computer Science Technology Social Studies Humanities                        | Analytical thinking Problem Solving Research | Current Events Ethics Web Applications Penetration testing |
 
@@ -98,7 +98,7 @@ integrated into society.
 and how it relates to public opinion, information sharing, misinformation,
 politics and conflict.
 
-| Suggested Core Subject Integrations                                          | Core Knowledge/Skills | Suggested Learning/Topics                                               |
+| **Suggested Core Subject Integrations                                          | Core Knowledge/Skills | Suggested Learning/Topics**                                               |
 |------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------|
 | Language Arts Social Studies Humanities Government                           | Communication Empathy | Cyber policy/warfare Internet-of-things Current Events Health Education |
 
