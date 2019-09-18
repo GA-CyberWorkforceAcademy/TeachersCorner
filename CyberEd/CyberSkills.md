@@ -96,4 +96,4 @@ politics and conflict.
 | Language Arts Social Studies Humanities Government                           | Communication Empathy | Cyber policy/warfare Internet-of-things Current Events Health Education |
 | Looking for help integrating **Technology in Society** into your curriculum? |                       |                                    
 
-[Resources](TechSoc/Resources)
+[Resources](TechSociety/Resources)
