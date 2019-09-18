@@ -13,7 +13,9 @@ systems are used, administered or secured.
 | Suggested Core Subject Integrations                                | Core Knowledge/Skills                                                                    | Suggested Learning/Topics |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------|
 | Computer Science Technology/Cyber                                  | System Architecture of Windows/Linux System administration tasks System hardening basics | CyberPatriot              |
-| Looking for help integrating **OS** learning into your curriculum? |                                                                                          |                           |
+
+
+Looking for help integrating **OS** learning into your curriculum?
 
 [Resources](OS/Resources)                                                               
 
@@ -33,7 +35,9 @@ structures and standards of living.
 | Suggested Core Subject Integrations                               | Core Knowledge/Skills                                                                 | Suggested Learning/Topics      |
 |-------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------|
 | Geography Science                                                 | Topologies Physical vs Logical layouts Relationships & Dependencies Light/Radio Waves | Telecommunications (Transport) |
-| Looking for help integrating **Networking** into your curriculum? |                                                                                       |                                |
+
+Looking for help integrating **Networking** into your curriculum?
+
 
 [Resources](Networking/Resources)
 
@@ -52,7 +56,7 @@ computer program to produce expected results for a given situation.
 | Suggested Core Subject Integrations                                | Core Knowledge/Skills                                              | Suggested Learning/Topics                      |
 |--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------|
 | Math Science                                                       | Problem Analysis Logic, Attention to Detail Self-Reliance Patience | Python/Ruby Scripting (Bash or PowerShell) C++ |
-| Looking for help integrating **Programming** into your curriculum? |                                                                    |                                                |
+Looking for help integrating **Programming** into your curriculum? 
 
 [Resources](Programming/Resources)
 
@@ -72,7 +76,9 @@ used to mitigate threats to a computer system.
 | Suggested Core Subject Integrations                                          | Core Knowledge/Skills                        | Suggested Learning/Topics                                  |
 |------------------------------------------------------------------------------|----------------------------------------------|------------------------------------------------------------|
 | Computer Science Technology Social Studies Humanities                        | Analytical thinking Problem Solving Research | Current Events Ethics Web Applications Penetration testing |
-| Looking for help integrating **Security Fundamentals** into your curriculum? |                                              |            
+
+Looking for help integrating **Security Fundamentals** into your curriculum? 
+
 
 [Resources](Security/Resources)
 
@@ -94,6 +100,8 @@ politics and conflict.
 | Suggested Core Subject Integrations                                          | Core Knowledge/Skills | Suggested Learning/Topics                                               |
 |------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------|
 | Language Arts Social Studies Humanities Government                           | Communication Empathy | Cyber policy/warfare Internet-of-things Current Events Health Education |
-| Looking for help integrating **Technology in Society** into your curriculum? |                       |                                    
+
+Looking for help integrating **Technology in Society** into your curriculum? 
+
 
 [Resources](TechSociety/Resources)
