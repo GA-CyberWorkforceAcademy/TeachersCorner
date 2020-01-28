@@ -1,5 +1,6 @@
 Operating Systems
 =================
+[Click here for Resources](OS/Resources) 
 
 Operating Systems (OS) run computers, servers and appliances used is our lives
 everyday. Understanding how software and hardware work together to meet their
@@ -16,11 +17,11 @@ systems are used, administered or secured.
 
 
 Looking for help integrating **OS** learning into your curriculum?
-
-[Resources](OS/Resources)                                                               
+                                                              
 
 Networking
 ==========
+[Click here for Resources](Networking/Resources)
 
 Networking provides an understanding of how computers and digital systems
 connect, communicate or provide, use and share resources. This includes an
@@ -39,10 +40,10 @@ structures and standards of living.
 Looking for help integrating **Networking** into your curriculum?
 
 
-[Resources](Networking/Resources)
 
 Programming
 ===========
+[Click here for Resources](Programming/Resources)
 
 Programming involves using a computer language to define a set of instructions
 to perform. A programmer creates things through the use of the scientific method
@@ -59,11 +60,12 @@ computer program to produce expected results for a given situation.
 
 Looking for help integrating **Programming** into your curriculum? 
 
-[Resources](Programming/Resources)
 
 
 Security Fundamentals
 =====================
+
+[Click here for Resources](Security/Resources)
 
 Security fundamentals spans a wide range of topics, from not technical to highly
 technical. This area should include vocabulary, types of threats and threat
@@ -85,6 +87,7 @@ Looking for help integrating **Security Fundamentals** into your curriculum?
 
 Technology in Society
 =====================
+[Click here for Resources](TechSociety/Resources)
 
 Understanding and synthetizing all the elements of technology that shape and
 touch our lives is important across academic disciplines as well as in our
@@ -105,4 +108,4 @@ politics and conflict.
 Looking for help integrating **Technology in Society** into your curriculum? 
 
 
-[Resources](TechSociety/Resources)
+
