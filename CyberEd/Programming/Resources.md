@@ -6,5 +6,3 @@ Resources for Programming
 | [Math with Python (Georgia Cyber Center Resource)](https://ga-cyberworkforceacademy.github.io/Python/)                         |
 | [Math Exercises in Python](https://www.w3resource.com/python-exercises/math/)                                                  |
 | [Python for Physics and Astronomy](http://prancer.physics.louisville.edu/astrowiki/index.php/Python_for_Physics_and_Astronomy) |
-
-Check out: GA Teachers Repository Resource (link to CyberCentral area)
