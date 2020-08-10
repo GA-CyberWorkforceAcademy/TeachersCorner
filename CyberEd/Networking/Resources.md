@@ -7,5 +7,3 @@ Resources for Networking
 | [Packet Tracer Training (free Cisco network simulation tool)](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer) |
 | [Submarine Communications Map](https://www.visualcapitalist.com/submarine-cables)                                                       |
 | [Satellite Communications Map](https://maps.esri.com/rc/sat/)                                                                           |
-
-Check out: GA Teachers Repository Resource (link to CyberCentral area)
